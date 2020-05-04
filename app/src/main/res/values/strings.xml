@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="sub_heading">Welcome to Adventrure Learning Club!</string>
+    <string name="full_name">Full Name : </string>
+    <string name="first_name">First name</string>
+    <string name="Last_name">Last name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="student_id">Student ID : </string>
+    <string name="school">School : </string>
+    <string name="Email">Email : </string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender :</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">cancel</string>
+</resources>
